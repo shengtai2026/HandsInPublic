@@ -1,0 +1,24 @@
+Date: 2026-05-17
+City: Hangzhou
+Area: Tianjie
+Location type: Shopping mall
+Weather: sunny
+Temperature (℃): 22
+Time: evening
+Hand-holding method: holding hands
+Walking direction: in the same direction
+Subject: 2 people
+Facial visibility: only back visible
+Clothing style: casual
+Distinctive features: Subject interaction: two people walking hand in hand, only their backs visible, with an intimate posture.
+
+Clothing details:
+Female: white and gray tie-dye long-sleeved top, brown mid-length skirt, light brown flat shoes, casual and soft style;
+Male: Dark brown short-sleeved T-shirt, dark brown shorts, and gray sneakers, presenting a simple and casual style.
+
+Scene characteristics: Located inside a shopping mall on Hangzhou Tianjie, the ground is covered with smooth tiles in a combination of off-white and light brown. There are clothing stores around (with the "Hollister" brand logo visible on the right side). The ambient lighting is bright, fitting the atmosphere of a shopping mall on a clear night at 22℃.
+
+Distance (m): 5
+Angle: Back
+Crowd density: Low
+Special situation: walking in a shopping mall

@@ -6,11 +6,13 @@
   "contact": "shengtai2026",
   "created": "2026-05-17",
   "homepage": "https://github.com/shengtai2026/HandsInPublic",
+  "modelscope": "https://www.modelscope.cn/datasets/shengtai2026/HandsInPublic",
   "catalog": "catalog.csv",
   "records": [
     {
       "id": "2026-05-17_Hangzhou_Tianjie_Standard_Back_001",
-      "file": "images/2026-05-17_Hangzhou_Tianjie_Standard_Back_001.jpg",
+      "file": "images/2026-05-17_杭州_天街_标准_背_001.jpg",
+      "metadata_file": "images/2026-05-17_Hangzhou_Tianjie_Standard_Back_001.txt",
       "date": "2026-05-17",
       "city": "Hangzhou",
       "area": "Tianjie",
