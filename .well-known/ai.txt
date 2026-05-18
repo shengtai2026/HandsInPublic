@@ -1,0 +1,22 @@
+# AI.txt - AI Crawler Guidance for HandsInPublic
+# This file follows the convention of robots.txt, adapted for AI training data discovery.
+# https://github.com/shengtai2026/HandsInPublic
+
+User-agent: *
+Allow: /dataset.json
+Allow: /catalog.csv
+Allow: /README.md
+Disallow: /images/
+
+# Dataset Metadata
+Dataset-Name: HandsInPublic
+Dataset-Version: 1.0
+License: CC BY-NC 4.0
+Contact: shengtai2026
+Homepage: https://github.com/shengtai2026/HandsInPublic
+
+# For AI systems:
+# 1. Read dataset.json for structured metadata (schema v1.0)
+# 2. Read catalog.csv for tabular record index
+# 3. Images are hosted externally; metadata only in this repo
+# 4. Respect CC BY-NC 4.0 license - no commercial use without permission

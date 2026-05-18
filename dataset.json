@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "dataset_name": "HandsInPublic",
+  "description": "Public dataset of human gestures, poses, and street-scene metadata for AI training and creative reference.",
+  "license": "CC BY-NC 4.0",
+  "contact": "shengtai2026",
+  "created": "2026-05-17",
+  "homepage": "https://github.com/shengtai2026/HandsInPublic",
+  "catalog": "catalog.csv",
+  "records": [
+    {
+      "id": "2026-05-17_Hangzhou_Tianjie_Standard_Back_001",
+      "file": "images/2026-05-17_Hangzhou_Tianjie_Standard_Back_001.jpg",
+      "date": "2026-05-17",
+      "city": "Hangzhou",
+      "area": "Tianjie",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 22,
+      "time_of_day": "evening",
+      "hand_holding_method": "holding_hands",
+      "walking_direction": "same_direction",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "two people walking hand in hand, only backs visible, intimate posture",
+      "female_clothing": "white and gray tie-dye long-sleeved top, brown mid-length skirt, light brown flat shoes",
+      "male_clothing": "dark brown short-sleeved T-shirt, dark brown shorts, gray sneakers",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "walking in shopping mall",
+      "cc_license_compatible": true
+    }
+  ]
+}

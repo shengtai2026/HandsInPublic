@@ -1,0 +1,2 @@
+﻿id,file,date,city,area,location_type,weather,temperature_c,time_of_day,subject_count,facial_visibility,angle,distance_m,crowd_density,license_compatible
+2026-05-17_Hangzhou_Tianjie_Standard_Back_001,images/2026-05-17_Hangzhou_Tianjie_Standard_Back_001.jpg,2026-05-17,Hangzhou,Tianjie,shopping_mall,sunny,22,evening,2,back_only,back,5,low,true
