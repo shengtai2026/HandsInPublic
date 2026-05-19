@@ -122,6 +122,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "inside mall, near SALE promotion area and green store facades"
+    },
+    {
+      "id": "2026-05-17_Hangzhou_Tianjie_handholding_side_005",
+      "file": "images/2026-05-17_Hangzhou_Tianjie_handholding_side_005.jpg",
+      "metadata_file": "images/2026-05-17_Hangzhou_Tianjie_handholding_side_005.txt",
+      "date": "2026-05-17",
+      "city": "Hangzhou",
+      "district": "Tianjie",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 22,
+      "time_of_day": "evening",
+      "intimacy_type": "handholding_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "two people walking arm in arm inside the mall near escalators",
+      "female_clothing": "black T-shirt, blue jeans",
+      "male_clothing": "white T-shirt, white pants",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "inside mall near escalator area with SALE signs and other pedestrians"
     }
   ]
 }
