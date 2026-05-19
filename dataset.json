@@ -257,6 +257,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "near Denza EV booth with black display car, RA sign, and SALE promotion board"
+    },
+    {
+      "id": "2026-05-17_Hangzhou_Tianjie_arm_in_arm_011",
+      "file": "images/2026-05-17_Hangzhou_Tianjie_arm_in_arm_011.jpg",
+      "metadata_file": "images/2026-05-17_Hangzhou_Tianjie_arm_in_arm_011.txt",
+      "date": "2026-05-17",
+      "city": "Hangzhou",
+      "district": "Tianjie",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 22,
+      "time_of_day": "evening",
+      "intimacy_type": "arm_in_arm_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "girl linking arms with guy in mall corridor, reflective floor",
+      "female_clothing": "light yellow oversized long T-shirt, white socks, grey slippers",
+      "male_clothing": "black top, khaki cargo pants, black cap, white-and-brown backpack",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "near BANANA shop with red cartoon figurines, other pedestrians in distance"
     }
   ]
 }
