@@ -234,6 +234,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "inside clothing store with mannequins and clothing displays including striped T-shirts and denim"
+    },
+    {
+      "id": "2026-05-17_Hangzhou_Tianjie_arm_around_waist_010",
+      "file": "images/2026-05-17_Hangzhou_Tianjie_arm_around_waist_010.jpg",
+      "metadata_file": "images/2026-05-17_Hangzhou_Tianjie_arm_around_waist_010.txt",
+      "date": "2026-05-17",
+      "city": "Hangzhou",
+      "district": "Tianjie",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 22,
+      "time_of_day": "evening",
+      "intimacy_type": "arm_around_waist",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "man with arm around girl waist, walking inside mall",
+      "female_clothing": "white top, black long skirt",
+      "male_clothing": "white T-shirt, light shorts, shopping bag",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "near Denza EV booth with black display car, RA sign, and SALE promotion board"
     }
   ]
 }
