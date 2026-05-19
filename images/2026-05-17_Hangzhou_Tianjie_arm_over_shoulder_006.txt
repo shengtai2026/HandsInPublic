@@ -1,0 +1,24 @@
+Date: 2026-05-17
+City: Hangzhou
+Area: Tianjie
+Location type: Mall
+Weather: Sunny
+Temperature (C): 22
+Time: 9:13 PM
+Intimacy type: Arm over shoulder
+Direction: Same direction
+Subjects: 2 people
+Facial visibility: Only backs visible
+Clothing style: Casual
+Distinctive features: Man has his arm around woman's shoulder.
+
+Clothing details:
+Male (left): black sleeveless top, black shorts;
+Female (right): white shirt, gray pants.
+
+Scene characteristics: Bright shopping mall corridor with smooth flooring. On the left, a Li-Ning sports store with a red promotional sign reading "20% off for three items" at the entrance.
+
+Distance (m): 5
+Angle: Back
+Crowd density: Low
+Special situation: inside mall corridor near Li-Ning store with promotional sign
