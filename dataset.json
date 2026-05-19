@@ -165,6 +165,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "inside mall corridor near Li-Ning store with promotional sign"
+    },
+    {
+      "id": "2026-05-17_Hangzhou_Tianjie_arm_over_shoulder_007",
+      "file": "images/2026-05-17_Hangzhou_Tianjie_arm_over_shoulder_007.jpg",
+      "metadata_file": "images/2026-05-17_Hangzhou_Tianjie_arm_over_shoulder_007.txt",
+      "date": "2026-05-17",
+      "city": "Hangzhou",
+      "district": "Tianjie",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 22,
+      "time_of_day": "evening",
+      "intimacy_type": "arm_over_shoulder",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "man has arm around woman shoulder, walking down middle of mall corridor",
+      "female_clothing": "pink hoodie, white mini skirt",
+      "male_clothing": "beige printed T-shirt, gray pants",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "inside mall corridor with RED BOX kiosk and indicia store with mannequin"
     }
   ]
 }
