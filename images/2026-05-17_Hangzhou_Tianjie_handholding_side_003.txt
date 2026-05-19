@@ -1,0 +1,24 @@
+Date: 2026-05-17
+City: Hangzhou
+Area: Tianjie
+Location type: Mall
+Weather: Sunny
+Temperature (C): 22
+Time: 8:49 PM
+Holding style: Arm in arm
+Direction: Same direction
+Subjects: 2 people
+Facial visibility: Only backs visible
+Clothing style: Casual
+Distinctive features: Two people walking arm in arm towards mall "Entrance 3".
+
+Clothing details:
+Left person: gray top, light gray pants;
+Right person: black top, light gray pants.
+
+Scene characteristics: Near the mall entrance with a yellow cleaning cart nearby. Background shows the mall entrance and interior shops. Evening atmosphere at 22C.
+
+Distance (m): 5
+Angle: Back
+Crowd density: Low
+Special situation: walking towards mall entrance
