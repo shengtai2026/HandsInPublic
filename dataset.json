@@ -12,9 +12,9 @@
   "catalog": "catalog.csv",
 
   "intimacy_type_enum": {
-    "handholding_side": "Side-by-side hand holding",
+    "handholding_side": "Side-by-side hand hold (arm in arm)",
     "handholding_interlocked": "Interlocked fingers",
-    "handholding_loose": "Loose hand holding",
+    "handholding_loose": "Loose hand hold",
     "arm_around_waist": "Arm around waist",
     "arm_over_shoulder": "Arm over shoulder",
     "hug_face_to_face": "Face-to-face hug",
@@ -53,6 +53,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "walking in shopping mall"
+    },
+    {
+      "id": "2026-05-17_Hangzhou_Tianjie_handholding_side_002",
+      "file": "images/2026-05-17_Hangzhou_Tianjie_handholding_side_002.jpg",
+      "metadata_file": "images/2026-05-17_Hangzhou_Tianjie_handholding_side_002.txt",
+      "date": "2026-05-17",
+      "city": "Hangzhou",
+      "district": "Tianjie",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 22,
+      "time_of_day": "evening",
+      "intimacy_type": "handholding_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "two people walking arm in arm in the same direction, male holding white plastic bag",
+      "female_clothing": "light gray top, beige long skirt",
+      "male_clothing": "white T-shirt, black pants",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "urban street at night, streetlights and guardrails visible"
     }
   ]
 }

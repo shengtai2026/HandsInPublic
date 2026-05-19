@@ -1,0 +1,24 @@
+Date: 2026-05-17
+City: Hangzhou
+Area: Tianjie
+Location type: Mall
+Weather: Sunny
+Temperature (C): 22
+Time: 8:48 PM
+Holding style: Arm in arm
+Direction: Same direction
+Subjects: 2 people
+Facial visibility: Only backs visible
+Clothing style: Casual
+Distinctive features: Two people walking arm in arm in the same direction, both in casual attire.
+
+Clothing details:
+Male: white T-shirt, black pants, holding a white plastic bag;
+Female: light gray top, beige long skirt.
+
+Scene characteristics: Located on the urban street of Hangzhou Tianjie at night. The background shows nighttime city street scenery with streetlights, guardrails, surrounding shops, and vehicles. The atmosphere reflects a typical evening in a commercial district.
+
+Distance (m): 5
+Angle: Back
+Crowd density: Low
+Special situation: none
