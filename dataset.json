@@ -280,6 +280,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "near BANANA shop with red cartoon figurines, other pedestrians in distance"
+    },
+    {
+      "id": "2026-05-17_Hangzhou_Tianjie_handholding_side_012",
+      "file": "images/2026-05-17_Hangzhou_Tianjie_handholding_side_012.jpg",
+      "metadata_file": "images/2026-05-17_Hangzhou_Tianjie_handholding_side_012.txt",
+      "date": "2026-05-17",
+      "city": "Hangzhou",
+      "district": "Tianjie",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 22,
+      "time_of_day": "evening",
+      "intimacy_type": "handholding_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "hand in hand in mall corridor, reflective floor, female backless top",
+      "female_clothing": "backless top, black long skirt",
+      "male_clothing": "dark green T-shirt, dark grey shorts",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "near SALE shop window with large poster and reflective flooring"
     }
   ]
 }
