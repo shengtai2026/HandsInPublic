@@ -303,6 +303,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "near SALE shop window with large poster and reflective flooring"
+    },
+    {
+      "id": "2026-05-18_Hangzhou_XueyuanStreet_hug_from_behind_013",
+      "file": "images/2026-05-18_Hangzhou_XueyuanStreet_hug_from_behind_013.jpg",
+      "metadata_file": "images/2026-05-18_Hangzhou_XueyuanStreet_hug_from_behind_013.txt",
+      "date": "2026-05-18",
+      "city": "Hangzhou",
+      "district": "XueyuanStreet",
+      "location_type": "street",
+      "weather": "sunny",
+      "temperature_c": 26,
+      "time_of_day": "morning",
+      "intimacy_type": "hug_from_behind",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "girl hugging boy from behind, acting coquettishly and intimately snuggling",
+      "female_clothing": "white top (couple outfit), khaki pants",
+      "male_clothing": "orange-yellow short hair, white top",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "urban park green belt with construction site and yellow tower crane in background, person in red riding bicycle in distance"
     }
   ]
 }
