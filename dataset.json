@@ -441,6 +441,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "nighttime commercial block with InCity Mall neon sign, rich blue and yellow lighting, green plants, multiple pedestrians"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_XiashaHuansi_arm_in_arm_019",
+      "file": "images/2026-05-19_Hangzhou_XiashaHuansi_arm_in_arm_019.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_XiashaHuansi_arm_in_arm_019.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "XiashaHuansi",
+      "location_type": "commercial_block",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "evening",
+      "intimacy_type": "arm_in_arm_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "girl linking arms with guy, relaxed intimate dynamic on nighttime sidewalk",
+      "female_clothing": "white top, light pink pants, hat",
+      "male_clothing": "light gray T-shirt, black pants",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "nighttime sidewalk with parked e-bikes, blind path, person sitting on scooter"
     }
   ]
 }
