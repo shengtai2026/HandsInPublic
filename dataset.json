@@ -487,6 +487,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "standing on zebra crossing at nighttime city intersection with red traffic light, cars and e-scooters passing"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_JinshaAvenue_arm_over_shoulder_021",
+      "file": "images/2026-05-19_Hangzhou_JinshaAvenue_arm_over_shoulder_021.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_JinshaAvenue_arm_over_shoulder_021.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "JinshaAvenue",
+      "location_type": "street_intersection",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "evening",
+      "intimacy_type": "arm_over_shoulder",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "man arm around woman shoulder and neck, affectionate posture on zebra crossing at night with red light",
+      "female_clothing": "gray top, long black skirt",
+      "male_clothing": "light gray T-shirt, khaki pants, red MINISO shopping bag on back",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "standing on zebra crossing at nighttime city intersection with red traffic light, cars and e-scooters passing, InCity Mall neon signage visible"
     }
   ]
 }

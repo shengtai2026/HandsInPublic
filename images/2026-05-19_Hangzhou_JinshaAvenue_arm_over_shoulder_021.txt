@@ -1,0 +1,24 @@
+Date: 2026-05-19
+City: Hangzhou
+Area: Jinsha Avenue (金沙大道)
+Location type: Street intersection with traffic lights
+Weather: Sunny
+Temperature (C): 24
+Time: 8:00 PM
+Intimacy type: Guy with arm around girl's shoulder and neck
+Direction: Same direction
+Subjects: 2 people
+Facial visibility: Backs only
+Clothing style: Casual
+Distinctive features: Man has arm around woman's shoulder and neck, more intimate and affectionate posture than 020.
+
+Clothing details:
+Male: light gray T-shirt, khaki pants, carrying red "MINISO" shopping bag on back;
+Female: gray top, long black skirt.
+
+Scene characteristics: Nighttime city intersection with red traffic light. Cars and electric scooters passing by. Distant buildings with bright neon signs and "印象城" (InCity Mall) commercial signage. Clear white zebra crossing extending toward intersection, adjacent to square-tile sidewalk.
+
+Distance (m): 5
+Angle: Back
+Crowd density: Low
+Special situation: standing on zebra crossing at nighttime city intersection with red traffic light, cars and e-scooters passing, InCity Mall neon signage visible
