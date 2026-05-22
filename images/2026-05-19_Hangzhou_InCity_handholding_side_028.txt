@@ -1,0 +1,24 @@
+Date: 2026-05-19
+City: Hangzhou
+Area: InCity (印象城)
+Location type: Shopping mall (central atrium, escalator entrance)
+Weather: Sunny
+Temperature (C): 24
+Time: 8:16 PM
+Intimacy type: Hand in hand (holding hands)
+Direction: Same direction
+Subjects: 2 people
+Facial visibility: Backs only
+Clothing style: Casual
+Distinctive features: Couple standing with backs to camera, preparing to take escalator, holding hands in intimate and relaxed posture.
+
+Clothing details:
+Male: black sleeveless top, gray casual pants;
+Female: light gray long-sleeve top, black wide-leg pants.
+
+Scene characteristics: Mall central atrium, spacious with dark tile floor and bright lighting. Multiple floors of shops and cartoon decorations visible. Background: L5 floor indicator, hanging cartoon doll decorations, yellow warning sign near escalator entrance, leopard-print escalator decorations.
+
+Distance (m): 5
+Angle: Back
+Crowd density: Low
+Special situation: preparing to take escalator at mall central atrium, L5 floor indicator, hanging cartoon doll decorations, yellow warning sign, leopard-print escalator decorations
