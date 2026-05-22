@@ -533,6 +533,29 @@
       "angle": "back",
       "crowd_density": "very_low",
       "special_situation": "modern shopping mall interior with reflective floor, Nike and Adidas store signs, second floor visible, off-peak quiet atmosphere"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_InCity_arm_in_arm_023",
+      "file": "images/2026-05-19_Hangzhou_InCity_arm_in_arm_023.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_InCity_arm_in_arm_023.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "InCity",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "evening",
+      "intimacy_type": "arm_in_arm_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "female linking arm through male in intimate relaxed posture in Xianyu offline store",
+      "female_clothing": "white T-shirt, long blue skirt",
+      "male_clothing": "dark gray T-shirt, black pants",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "Xianyu offline experience store with 520 promotional signage, yellow cartoon standees, second-hand/circular goods marketplace"
     }
   ]
 }
