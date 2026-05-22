@@ -694,6 +694,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "fashion retail scene with SETIRCH store sign, clothing displays with mannequins and hanging garments, electronic screen visible in distance"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_InCity_arm_in_arm_030",
+      "file": "images/2026-05-19_Hangzhou_InCity_arm_in_arm_030.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_InCity_arm_in_arm_030.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "InCity",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "evening",
+      "intimacy_type": "arm_in_arm_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "female linking arm through male, relaxed intimate posture near dining area",
+      "female_clothing": "gray short-sleeve T-shirt, white wide-leg pants",
+      "male_clothing": "black short-sleeve T-shirt, light gray casual pants",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "medium",
+      "special_situation": "dining area corridor with Yesheng Xiansheng restaurant orange storefront, zebra-stripe and leopard-print cartoon decorative pillars, highly reflective glossy floor tiles"
     }
   ]
 }
