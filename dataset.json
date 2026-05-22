@@ -602,6 +602,29 @@
       "angle": "back",
       "crowd_density": "very_low",
       "special_situation": "modern shopping mall interior with IMVP, HIMO, PASSION store signage, circular ceiling light fixtures, off-peak quiet atmosphere"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_InCity_arm_in_arm_026",
+      "file": "images/2026-05-19_Hangzhou_InCity_arm_in_arm_026.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_InCity_arm_in_arm_026.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "InCity",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "evening",
+      "intimacy_type": "arm_in_arm_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "female linking arm through male in relaxed intimate posture in mall corridor",
+      "female_clothing": "black dress",
+      "male_clothing": "white T-shirt, white casual pants",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "fashion retail scene with Yichun pink neon sign and clothing store displays with mannequins"
     }
   ]
 }

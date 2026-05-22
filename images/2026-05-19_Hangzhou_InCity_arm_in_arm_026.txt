@@ -1,0 +1,24 @@
+Date: 2026-05-19
+City: Hangzhou
+Area: InCity (印象城)
+Location type: Shopping mall (indoor corridor)
+Weather: Sunny
+Temperature (C): 24
+Time: 8:13 PM
+Intimacy type: Female linking arms with male (arm in arm)
+Direction: Same direction
+Subjects: 2 people
+Facial visibility: Backs only
+Clothing style: Casual
+Distinctive features: Female linking arm through male's arm, relaxed intimate posture in mall corridor.
+
+Clothing details:
+Male: white T-shirt, white casual pants;
+Female: black dress.
+
+Scene characteristics: Spacious mall public corridor with light-colored matte tile flooring and bright lighting. Background: "Yichun" (以纯) pink neon sign, clothing store display with mannequins and various garments. Other pedestrians visible in the distance.
+
+Distance (m): 5
+Angle: Back
+Crowd density: Low
+Special situation: fashion retail scene with Yichun pink neon sign and clothing store displays with mannequins
