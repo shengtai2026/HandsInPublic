@@ -510,6 +510,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "standing on zebra crossing at nighttime city intersection with red traffic light, cars and e-scooters passing, InCity Mall neon signage visible"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_InCity_arm_in_arm_022",
+      "file": "images/2026-05-19_Hangzhou_InCity_arm_in_arm_022.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_InCity_arm_in_arm_022.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "InCity",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "evening",
+      "intimacy_type": "arm_in_arm_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "female linking arm through male in intimate relaxed posture in quiet empty shopping mall",
+      "female_clothing": "brown top, jeans",
+      "male_clothing": "black T-shirt, jeans",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "very_low",
+      "special_situation": "modern shopping mall interior with reflective floor, Nike and Adidas store signs, second floor visible, off-peak quiet atmosphere"
     }
   ]
 }
