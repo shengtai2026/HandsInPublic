@@ -717,6 +717,29 @@
       "angle": "back",
       "crowd_density": "medium",
       "special_situation": "dining area corridor with Yesheng Xiansheng restaurant orange storefront, zebra-stripe and leopard-print cartoon decorative pillars, highly reflective glossy floor tiles"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_JinshaLake_handholding_side_031",
+      "file": "images/2026-05-19_Hangzhou_JinshaLake_handholding_side_031.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_JinshaLake_handholding_side_031.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "JinshaLake",
+      "location_type": "lakeside",
+      "weather": "sunny",
+      "temperature_c": 26,
+      "time_of_day": "afternoon",
+      "intimacy_type": "handholding_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "male holding female hand walking along lakeside promenade",
+      "female_clothing": "beige long dress, long dark hair, flat shoes",
+      "male_clothing": "white short-sleeve shirt, light gray cargo pants, black boots, maroon shoulder bag",
+      "distance_m": 4,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "lakeside commercial pedestrian zone with container architecture, curved railing along water"
     }
   ]
 }
