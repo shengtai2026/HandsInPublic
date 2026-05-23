@@ -809,6 +809,29 @@
       "angle": "back",
       "crowd_density": "medium",
       "special_situation": "indoor mall atrium, mutual arm-linking both sides"
+    },
+    {
+      "id": "2026-05-22_Hangzhou_JinshaParadiseWalk_arm_around_waist_035",
+      "file": "images/2026-05-22_Hangzhou_JinshaParadiseWalk_arm_around_waist_035.jpg",
+      "metadata_file": "images/2026-05-22_Hangzhou_JinshaParadiseWalk_arm_around_waist_035.txt",
+      "date": "2026-05-22",
+      "city": "Hangzhou",
+      "district": "JinshaParadiseWalk",
+      "location_type": "mall",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "afternoon",
+      "intimacy_type": "arm_around_waist",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "couple walking through mall atrium, male arm around female waist, male carrying shopping bag",
+      "female_clothing": "white short-sleeve top, light pink long skirt",
+      "male_clothing": "light gray patterned jacket, blue jeans, sneakers, shopping bag",
+      "distance_m": 4,
+      "angle": "back",
+      "crowd_density": "medium",
+      "special_situation": "indoor mall atrium near SALE sign and HUAWEI store"
     }
   ]
 }
