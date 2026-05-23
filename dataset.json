@@ -740,6 +740,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "lakeside commercial pedestrian zone with container architecture, curved railing along water"
+    },
+    {
+      "id": "2026-05-21_Hangzhou_JinshaLake_arm_around_waist_032",
+      "file": "images/2026-05-21_Hangzhou_JinshaLake_arm_around_waist_032.jpg",
+      "metadata_file": "images/2026-05-21_Hangzhou_JinshaLake_arm_around_waist_032.txt",
+      "date": "2026-05-21",
+      "city": "Hangzhou",
+      "district": "JinshaLake",
+      "location_type": "lakeside",
+      "weather": "sunny",
+      "temperature_c": 26,
+      "time_of_day": "night",
+      "intimacy_type": "arm_around_waist",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "male arm around female waist/shoulder walking along nighttime lakeside promenade",
+      "female_clothing": "striped short-sleeve top, light-colored long pants",
+      "male_clothing": "blue-green plaid short-sleeve shirt, dark shorts",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "nighttime lakeside walk with green-lit geometric architecture, romantic atmosphere"
     }
   ]
 }
