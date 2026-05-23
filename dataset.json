@@ -786,6 +786,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "indoor mall dining area, couple at food counter"
+    },
+    {
+      "id": "2026-05-22_Hangzhou_JinshaParadiseWalk_mutual_arm_linking_034",
+      "file": "images/2026-05-22_Hangzhou_JinshaParadiseWalk_mutual_arm_linking_034.jpg",
+      "metadata_file": "images/2026-05-22_Hangzhou_JinshaParadiseWalk_mutual_arm_linking_034.txt",
+      "date": "2026-05-22",
+      "city": "Hangzhou",
+      "district": "JinshaParadiseWalk",
+      "location_type": "mall",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "afternoon",
+      "intimacy_type": "mutual_arm_linking",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "couple walking through mall atrium with mutual interlocking arms",
+      "female_clothing": "black long-sleeve top, gray flared pants, face mask, brown shoulder bag",
+      "male_clothing": "black jacket with JUST DO IT text on back, khaki casual pants, white sneakers",
+      "distance_m": 4,
+      "angle": "back",
+      "crowd_density": "medium",
+      "special_situation": "indoor mall atrium, mutual arm-linking both sides"
     }
   ]
 }
