@@ -855,6 +855,30 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "outdoor mall exterior near service kiosk, tactile paving visible"
+    },
+    {
+      "id": "2026-05-22_Hangzhou_JinshaParadiseWalk_arms_around_lower_back_037",
+      "file": "images/2026-05-22_Hangzhou_JinshaParadiseWalk_arms_around_lower_back_037.jpg",
+      "metadata_file": "images/2026-05-22_Hangzhou_JinshaParadiseWalk_arms_around_lower_back_037.txt",
+      "date": "2026-05-22",
+      "city": "Hangzhou",
+      "district": "JinshaParadiseWalk",
+      "location_type": "mall_exterior",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "afternoon",
+      "intimacy_type": "arms_around_lower_back",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "couple walking towards mall entrance, female arms around male lower back",
+      "female_clothing": "white short dress, white shoes",
+      "male_clothing": "white short-sleeve T-shirt, dark gray wide-leg pants, black-white sneakers",
+      "distance_m": 6,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "mall entrance No.1, glass revolving door, POP MART logo, operating hours sign, person with orange helmet holding tablet on right side"
     }
-  ]
+  ],
+  "total_records": 37
 }

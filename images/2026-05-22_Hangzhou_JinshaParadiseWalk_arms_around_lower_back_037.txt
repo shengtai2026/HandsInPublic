@@ -1,0 +1,28 @@
+Image: 2026-05-22_Hangzhou_JinshaParadiseWalk_arms_around_lower_back_037.jpg
+ID: 037
+Date: 2026-05-22
+Time: 15:01
+Location: 杭州，金沙大道，龙湖杭州金沙天街，商场1号入口外
+IntimacyType: arms_around_lower_back
+SubType: female_arms_around_male_lower_back
+Pose: back
+CameraHeight: eye_level
+Lighting: daylight
+PeopleCount: 2
+Gender: male_female
+ApproximateAge: both_20s
+Activity: walking_towards_entrance
+FacingDirection: away_from_camera
+PhysicalContact: female_arms_around_male_lower_back
+ClothingMale: 白色短袖T恤，深灰色阔腿裤，黑白色球鞋
+ClothingFemale: 白色短款连衣裙，白色鞋子
+CameraDistance: 5-8m
+ImageQuality: high
+Exposure: normal
+Composition: back_view_entrance_scene
+Environment: 商场1号入口，玻璃旋转门，POP MART品牌Logo，营业时间标识，右侧有戴橙色头盔路人持平板拍摄
+Notes: 女生挽男生后腰，同向走向入口；画面右侧有路人
+SourcePlatform: Xiaohongshu
+SourceURL:
+Uploader:
+Copyright: CC BY-NC-SA 4.0
